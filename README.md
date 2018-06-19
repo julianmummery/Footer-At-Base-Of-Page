@@ -3,3 +3,8 @@ Example in HTML and CSS showing how to keep the footer element at the base of th
 
 
 <img src="https://github.com/julianmummery/Footer-At-Base-Of-Page/blob/master/Footer-At-Base-Of-Page-Example.jpg">
+
+<hr />
+
+If you would like to take a look at my other Projects / Examples please use the following link: -
+<a alt="Julian Mummery's Portfolio" href="https://julianmummery.github.io">https://julianmummery.github.io</a>
